@@ -1,0 +1,36 @@
+{
+    "parts":[
+        {
+            "name":"Back",
+            "image":"https://welltech.com/wp-content/uploads/2022/08/Killer-Back-Workouts-Using-Cables-min.jpg"
+        },
+        {
+            "name":"Lower Legs",
+            "image":"https://www.bodybuilding.com/images/2016/june/5-leg-workouts-for-mass-header-v2-960x540.jpg"
+        },
+        {
+            "name":"Cardio",
+            "image":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/man-athlete-cycling-on-exercise-bike-during-cross-royalty-free-image-1662478001.jpg?resize=640:*"
+        },
+        {
+            "name":"Shoulders",
+            "image":"https://cdn.shopify.com/s/files/1/0942/6160/files/sundried-shoulder-workout.jpg?v=1553077615"
+        },
+        {
+            "name":"Chest",
+            "image":"https://images.unsplash.com/photo-1597452485669-2c7bb5fef90d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlc3QlMjB3b3Jrb3V0fGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+        },
+        {
+            "name":"Neck",
+            "image":"https://cdn.shopify.com/s/files/1/2491/2110/articles/thumbnail_home_workout-621146_1600x.png?v=1656477385"
+        },
+        {
+            "name":"Upper Arms",
+            "image":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fitness-athlete-doing-weighted-arm-workout-royalty-free-image-1596195614.jpg"
+        },
+        {
+            "name":"Waist",
+            "image":"https://pyxis.nymag.com/v1/imgs/90f/3d9/e9bbf8a017da3f32d533c61f9bb32f8f21-26-waist-workout.2x.h473.w710.jpg"
+        }
+    ]
+}
